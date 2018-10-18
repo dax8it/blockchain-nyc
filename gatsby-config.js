@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Blockchain News NYC',
-    description: 'All things blockchain in NYC. The Good. The Bad. The Ugly.,
+    description: 'All things blockchain in NYC. The Good. The Bad. The Ugly.'
     siteUrl: 'https://www.blockchainnews.nyc', // full path to blog - no ending slash
   },
   mapping: {
